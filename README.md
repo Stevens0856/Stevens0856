@@ -27,16 +27,18 @@ as part of my personal hobby.
 
 I'm not a programmer I just look 
 at the code and study it
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I'm working on Stevens0856.github io
+ - 🌱 I am studying Philosophy
+ - 👯 I want to collaborate on a game
+ - 🤔 I am looking for help by trying on my own
+ <!--
+ - 💬 Ask me about #
+ - 📫 How to contact me: #-->
+
+ - 😄 Pronoun: someone
+ - ⚡ Interesting fact: I only edit program code because I don't have a job, and I'm still a student
+
 
 </details>
 
@@ -139,7 +141,7 @@ at the code and study it
 © 2024 Stevens0856. All rights reserved. <br>No part of this work may be reproduced, <br>distributed, or used without written permission <br>from the copyright holder.
 </p>
 <p align="center">
-( just kidding, don't believe it ) <br>This code is free, nothing is prohibited
+DO NOT CLAIM THE CODE THAT I PIN 📌
 </p>
 
 </details>
