@@ -28,14 +28,12 @@ as part of my personal hobby.
 I'm not a programmer I just look 
 at the code and study it
 
-- 🔭 I'm working on Stevens0856.github io
+- 🔭 I'm working on [Stevens0856.github io](https://github.com/Stevens0856/Stevens0856.github.io)
  - 🌱 I am studying Philosophy
  - 👯 I want to collaborate on a game
  - 🤔 I am looking for help by trying on my own
- <!--
- - 💬 Ask me about #
+ <!--- 💬 Ask me about #
  - 📫 How to contact me: #-->
-
  - 😄 Pronoun: someone
  - ⚡ Interesting fact: I only edit program code because I don't have a job, and I'm still a student
 
