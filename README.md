@@ -1,6 +1,8 @@
 # Profile of SkyNemesis / NightCore
 
-<img src="https://pomf2.lain.la/f/vimchn9.gif" alt="GIF Description" width="500" />
+<p align="center">
+  <img src="https://pomf2.lain.la/f/vimchn9.gif" alt="GIF Description" width="500" />
+</p>
 
 ### 💬 **Warm Greetings**
 I'm just an individual who really loves the world of gaming, even though it may seem pointless. I’m just a student pursuing this skill as part of my personal hobby.
