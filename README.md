@@ -5,7 +5,7 @@
 I'm a passionate developer focusing on JavaScript and Node.js. I love to create and contribute to projects that make a difference.
 
 ## 🌱 About Me
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="Gambar Saya" style="float: right; width: auto; height: 40px; margin-left: 20px;">
+
 - 🔭 I’m currently working on [here](https://nekosync.vercel.app)
 - 🌱 I’m currently learning advanced JavaScript concepts and frameworks.
 - 👯 I’m looking to collaborate on JavaScript and Node.js projects.
@@ -35,5 +35,7 @@ I'm a passionate developer focusing on JavaScript and Node.js. I love to create 
 
 [![Saweria](https://img.shields.io/badge/-Saweria-FF4B4B?style=flat-square&logo=saweria)](https://saweria.co/NightCores)
 [![Trakteer](https://img.shields.io/badge/-Trakteer-FF6B00?style=flat-square&logo=trakteer)](https://trakteer.id/NightCores)
+
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="Gambar Saya" style="float: right; width: auto; height: 40px; margin-left: 20px;">
 
 Thanks for stopping by! 😊
