@@ -1,8 +1,9 @@
-# 👋 Hi there, I'm [ SkyNemesis / NightCore ]!
+# 👋 Hi there, I'm [ SkyNemesis / NightCore ] !
 
 ![Profile Banner](https://pomf2.lain.la/f/ncc0cprh.png)
 
-I'm a passionate developer focusing on JavaScript and Node.js. I love to create and contribute to projects that make a difference.
+I'm a passionate developer focusing on JavaScript and Node.js. 
+I love to create and contribute to projects that make a difference.
 
 ## 🌱 About Me
 
