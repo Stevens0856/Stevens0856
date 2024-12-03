@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm [ SkyNemesis / NightCore ] !
 
-![Profile Banner](https://pomf2.lain.la/f/ncc0cprh.png)
+![Banner](https://pomf2.lain.la/f/ncc0cprh.png)
 
 I'm a passionate developer focusing on JavaScript and Node.js. 
 I love to create and contribute to projects that make a difference.
@@ -19,6 +19,13 @@ I love to create and contribute to projects that make a difference.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+
+## 🕵️ Total Visitor
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Stevens0856/count.svg">
+</p>
+
 
 ## 📈 GitHub Stats
 
