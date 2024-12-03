@@ -20,6 +20,12 @@ I love to create and contribute to projects that make a difference.
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 
+## 🕵️ Total Visitor
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Stevens0856/count.svg">
+</p>
+
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stevens0856&show_icons=true&theme=radical)
