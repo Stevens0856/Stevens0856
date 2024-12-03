@@ -24,7 +24,8 @@ I love to create and contribute to projects that make a difference.
 
 <p align="center"> 
   ᴠɪsɪᴛᴏʀ ᴄᴏᴜɴᴛ<br>
-  <img src="https://profile-counter.glitch.me/Stevens0856/count.svg" /></p>
+  <img src="https://profile-counter.glitch.me/Stevens0856/count.svg">
+</p>
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stevens0856&show_icons=true&theme=radical)
 ![Your Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Stevens0856&theme=radical&layout=compact)
 
