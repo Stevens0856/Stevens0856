@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm [ SkyNemesis / NightCore ] !
 
-![Banner](https://pomf2.lain.la/f/ncc0cprh.png)
+![Banner](https://files.catbox.moe/7vohpd.png)
 
 I'm a passionate developer focusing on JavaScript and Node.js. 
 I love to create and contribute to projects that make a difference.
